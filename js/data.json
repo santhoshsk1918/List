@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "firstName": "Santhosh",
+  "lastName": "Kashyap",
+  "age": "28",
+  "dob": "18-12-1991",
+  "skills": "Node.js, React.js, Javascript",
+  "hobies": "Cooking, Computer Games"
+}
